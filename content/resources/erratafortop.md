@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 16cbcb66-664d-f902-fb8f-e13897420436
 resourcetype: Document
 title: erratafortop.pdf
 uid: 29619381-9500-dc68-f6ae-dff1e470bd12
