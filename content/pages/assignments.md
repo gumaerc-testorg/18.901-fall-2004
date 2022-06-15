@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 7ea62258-95c2-c1b4-1b22-c2b908e21e58
+video_metadata:
+  youtube_id: null
 ---
 
 There are two kinds of assignments: Weekly exercises that are not to be handed in for grading but are intended to prepare students for the exams, and problem sets that are to be handed in and graded.
@@ -16,7 +19,7 @@ The problem sets are assigned from the textbook: Munkres, James R. _Topology_. 
 
 Problem set 0 is a "diagnostic" problem set. It is designed to determine whether you are comfortable enough with the language of set theory to begin the study of topology. We will grade it in class at the second session. lf you miss more than 8 answers, you should probably take another proof-based course before trying this one. The grade on this problem set is intended for advising purposes only.
 
-For problem sets 1-4, the solutions are to be written out carefully and legibly, in good mathematical style. "Careful" has an obvious meaning. "Legible" means to do it in LATEX or (if handwritten) in ink and double-spaced. "Good mathematical style" means the style demanded by editors of math journals. Please read these comments about what the mathematics profession means by "good mathematical style ([PDF]({{< baseurl >}}/resources/commentsonstyle))." Follow them!
+For problem sets 1-4, the solutions are to be written out carefully and legibly, in good mathematical style. "Careful" has an obvious meaning. "Legible" means to do it in LATEX or (if handwritten) in ink and double-spaced. "Good mathematical style" means the style demanded by editors of math journals. Please read these comments about what the mathematics profession means by "good mathematical style ({{% resource_link 890ee042-9431-ba0e-a622-73ae0043c4f2 "PDF" %}})." Follow them!
 
 Note well: your first written solutions constitute your first draft; this is not acceptable. It will need to be rewritten, to clean up grammar and sentence structure and exposition. Treat it like a paper in a humanities class. (Unless you hand in sloppy papers there too!)
 
@@ -39,7 +42,7 @@ Problem Set 0
 {{< tdclose >}}
 {{< tdopen >}}
 Sec. 1; 2. Give answers only. Your answers to (j), (k), and (l) should be "yes" or "no." Your answers to the others should be one of the following:  
-⇒, ![](/courses/mathematics/18-901-introduction-to-topology-fall-2004/assignments/symbol.jpg), ⇔, ⊂, ⊃, =  
+⇒, {{< resource "5e12e0e9-3d08-bc92-b9c6-23a91291e57a" >}}, ⇔, ⊂, ⊃, =  
   
 Sec. 1; 5. Give answers only  
   
@@ -112,7 +115,7 @@ Sec. 38; 9
 Problem Set 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/problemset_5))
+({{% resource_link d6c5d6d3-0bf2-6300-b6f1-b2c278791796 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

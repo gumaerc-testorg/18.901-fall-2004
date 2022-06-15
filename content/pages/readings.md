@@ -1,13 +1,16 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 1f0dacb1-efc4-6e13-2d4d-2cece4f41c21
+video_metadata:
+  youtube_id: null
 ---
 
-The readings are in the textbook: Munkres, James. _Topology._ 2nd ed. Upper Saddle River, NJ: Prentice Hall, 28 December 1999. ISBN: 0131816292. Please refer to the errata sheet ([PDF]({{< baseurl >}}/resources/erratafortop-1)).
+The readings are in the textbook: Munkres, James. _Topology._ 2nd ed. Upper Saddle River, NJ: Prentice Hall, 28 December 1999. ISBN: 0131816292. Please refer to the errata sheet ({{% resource_link 6b5c3891-15ee-c3ad-2aea-a75408240c78 "PDF" %}}).
 
 {{< tableopen >}}
 {{< theadopen >}}
