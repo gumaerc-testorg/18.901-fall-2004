@@ -6,6 +6,7 @@ file: /courses/18-901-introduction-to-topology-fall-2004/e319b3a36ca774261b6b8c4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Notes C: These Supplementary Notes are optional reading for the corresponding lecture sessions.
-

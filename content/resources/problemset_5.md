@@ -6,6 +6,7 @@ file: /courses/18-901-introduction-to-topology-fall-2004/d6c5d6d30bf26300b6f1b2c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This is an optional problem set intended to make up for any assignment on which the student did poorly.
-
