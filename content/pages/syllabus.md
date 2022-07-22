@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 16cbcb66-664d-f902-fb8f-e13897420436
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -27,7 +32,7 @@ The prerequisite for the course is a first course in Analysis, at the level of R
 Textbook
 --------
 
-The text for the course is: Munkres, James R. _Topology._ 2nd ed. Upper Saddle River, NJ: Prentice-Hall, 28 December 1999. ISBN: 0131816292. An errata sheet ([PDF]({{< baseurl >}}/resources/erratafortop)) is available.
+The text for the course is: Munkres, James R. _Topology._ 2nd ed. Upper Saddle River, NJ: Prentice-Hall, 28 December 1999. ISBN: 0131816292. An errata sheet ({{% resource_link 29619381-9500-dc68-f6ae-dff1e470bd12 "PDF" %}}) is available.
 
 Expectations
 ------------
@@ -38,7 +43,7 @@ Your goal should be to construct a notebook containing written-out solutions to 
 
 These exercises are not to be handed in for grading. Instead, your knowledge of the exercises will be determined by the exams, which will be based almost entirely on the exercises. I guarantee that the exams will do a good job of determining to what extent you have mastered the exercises.
 
-Besides the exercises, there will be four formal problem sets during the term. The solutions are to be written out, in good mathematical style, to be handed in and graded. (We make some comments about mathematical style in the [assignments]({{< baseurl >}}/pages/assignments) section.) The work on the problem sets is to be strictly your own - think of them as take-home exams. They are intended to challenge you to think about problems that are a bit less routine than regular ones, and to give you some practice in writing mathematics acceptably.
+Besides the exercises, there will be four formal problem sets during the term. The solutions are to be written out, in good mathematical style, to be handed in and graded. (We make some comments about mathematical style in the {{% resource_link 7ea62258-95c2-c1b4-1b22-c2b908e21e58 "assignments" %}} section.) The work on the problem sets is to be strictly your own - think of them as take-home exams. They are intended to challenge you to think about problems that are a bit less routine than regular ones, and to give you some practice in writing mathematics acceptably.
 
 There will also be two informal, optional problem sets, one at the beginning and one at the end of the term.
 
