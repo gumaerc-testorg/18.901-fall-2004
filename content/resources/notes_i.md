@@ -3,6 +3,7 @@ content_type: resource
 description: 'Notes I: These Supplementary Notes are optional reading for the corresponding
   lecture sessions..'
 file: /courses/18-901-introduction-to-topology-fall-2004/8fade8afd61bc96576661ee625d076db_notes_i.pdf
+file_size: 158348
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
