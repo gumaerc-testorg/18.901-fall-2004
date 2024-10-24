@@ -2,7 +2,7 @@
 content_type: resource
 description: This is an image of a mathematical symbol used for problem set 0, the
   "diagnostic" problem set.
-file: /courses/18-901-introduction-to-topology-fall-2004/5e12e0e93d08bc92b9c623a91291e57a_symbol.jpg
+file: /ol-ocw-studio-app/courses/18-901-introduction-to-topology-fall-2004/5e12e0e93d08bc92b9c623a91291e57a_symbol.jpg
 file_size: 8357
 file_type: image/jpeg
 image_metadata:
