@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains the errata sheet for the reference book "Topology"
   for second and subsequent printings.
-file: /courses/18-901-introduction-to-topology-fall-2004/296193819500dc68f6aedff1e470bd12_erratafortop.pdf
+file: /ol-ocw-studio-app/courses/18-901-introduction-to-topology-fall-2004/296193819500dc68f6aedff1e470bd12_erratafortop.pdf
 file_size: 44804
 file_type: application/pdf
 learning_resource_types: []
