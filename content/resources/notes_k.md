@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Notes K: These Supplementary Notes are optional reading for the corresponding
   lecture sessions.'
-file: /ol-ocw-studio-app/courses/18-901-introduction-to-topology-fall-2004/bdcbc277a4da063b13550baf12206a6f_notes_k.pdf
+file: /courses/18-901-introduction-to-topology-fall-2004/bdcbc277a4da063b13550baf12206a6f_notes_k.pdf
 file_size: 260654
 file_type: application/pdf
 learning_resource_types:
