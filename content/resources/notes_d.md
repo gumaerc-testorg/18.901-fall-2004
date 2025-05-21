@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Notes D: These Supplementary Notes are optional reading for the corresponding
   lecture sessions.'
-file: /ol-ocw-studio-app/courses/18-901-introduction-to-topology-fall-2004/4cb6350106757012459166df979b6643_notes_d.pdf
+file: /courses/18-901-introduction-to-topology-fall-2004/4cb6350106757012459166df979b6643_notes_d.pdf
 file_size: 126267
 file_type: application/pdf
 learning_resource_types:

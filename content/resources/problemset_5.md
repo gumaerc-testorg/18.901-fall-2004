@@ -2,7 +2,7 @@
 content_type: resource
 description: This is an optional problem set intended to make up for any assignment
   on which the student did poorly.
-file: /ol-ocw-studio-app/courses/18-901-introduction-to-topology-fall-2004/d6c5d6d30bf26300b6f1b2c278791796_problemset_5.pdf
+file: /courses/18-901-introduction-to-topology-fall-2004/d6c5d6d30bf26300b6f1b2c278791796_problemset_5.pdf
 file_size: 74672
 file_type: application/pdf
 learning_resource_types:
