@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes the list of errata and corrections for the course
   textbook.
-file: /ol-ocw-studio-app/courses/18-901-introduction-to-topology-fall-2004/6b5c389115eec3ad2aeaa75408240c78_erratafortop.pdf
+file: /courses/18-901-introduction-to-topology-fall-2004/6b5c389115eec3ad2aeaa75408240c78_erratafortop.pdf
 file_size: 44804
 file_type: application/pdf
 learning_resource_types:
